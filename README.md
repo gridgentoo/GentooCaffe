@@ -12,10 +12,10 @@ https://github.com/NVIDIA/caffe
 https://github.com/gridgentoo/GentooHadoop
 
 
-# ebuld Zookeeper для Gentoo
+# ebuilds Zookeeper для Gentoo
 https://github.com/gridgentoo/GentooZookeeper
 
-# ebuld Spark для Gentoo
+# ebuilds Spark для Gentoo
 emerge sys-cluster/apache-spark-bin
 
 https://github.com/gridgentoo/GentooHadoop/blob/master/portage/sys-cluster/apache-spark-bin/apache-spark-bin-1.5.0.ebuild
