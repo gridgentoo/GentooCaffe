@@ -11,6 +11,10 @@ https://github.com/NVIDIA/caffe
 # Установка Hadoop environments в Gentoo : : BigdataOverlay
 https://github.com/gridgentoo/GentooHadoop
 
+
 # ebuld Zookeeper для Gentoo
 https://github.com/gridgentoo/GentooZookeeper
+
+# ebuld Spark для Gentoo
+https://github.com/gridgentoo/GentooHadoop/blob/master/portage/sys-cluster/apache-spark-bin/apache-spark-bin-1.5.0.ebuild
 
