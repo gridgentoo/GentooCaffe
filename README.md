@@ -1,7 +1,7 @@
 ebuild — формат bash-сценариев для системы управления пакетами Portage в операционной системе Gentoo.
 
 # Установка Caffe в Gentoo : : BigdataOverlay
-/dev-libs/caffe/caffe-9999.ebuild	
+ebuilds  Caffe для Gentoo
 
 https://github.com/gridgentoo/GentooCaffe/blob/master/dev-libs/caffe/caffe-9999.ebuild
 
